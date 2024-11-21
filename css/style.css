@@ -1,0 +1,127 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  
+}
+
+.oswald {
+  font-family: "Oswald", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+
+.oswald-bold {
+    font-family: "Oswald", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+.header {
+    background-color: #DBCBE3;  
+    padding-bottom: 140px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.borderbotton {
+    border-bottom: 1px solid #575558;
+}
+
+.logo a{
+    font-size: 46px;
+    text-decoration: none;
+    color: #575558;
+}
+
+
+.menuNav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px 10px 20px;
+    color: #575558;
+   
+}
+
+.mainNav {
+    word-spacing: 30px;
+    font-size: 26px;
+}
+
+.mainNav a {
+    color: #575558;
+    text-decoration: none;
+}
+
+.socialNetwork img {
+    width: 35px;
+    height: 35px;
+}
+
+.socialNetwork a {
+    text-decoration: none;
+    word-spacing: 10px;
+}
+
+.logoRADIO {
+    display: flex;
+    padding-top: 50px;
+   justify-content: center;
+}
+
+.logoRADIO img {
+    width: 600px;
+    height: 600px;
+    /* padding: 25px;   */
+    box-shadow: 0px 0px 15px 10px #fff; 
+}
+
+.startinfo {
+    /* text-align: center; */
+    padding-top: 50px;
+    font-size: 270px;
+    color: #575558;
+    /* width: 70%; */
+    line-height: 230px;
+}   
+
+
+
+.TALKING {
+    font-size: 250px;
+}
+
+.textHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* gap: 20px; */
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: left;
+}
+
+.radiostal {
+    font-size: 96px;
+    line-height: 130px;
+}
+
+/* main */
+
+.watchvideo {
+    padding-top: 50px;
+    text-align: center;
+    font-size: 48px;
+    color: #575558;
+}
+
+.main {
+    background-color: #575558;
+}
